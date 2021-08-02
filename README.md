@@ -1,7 +1,7 @@
 # Demystifying Cookies and Tokens Security
 
 * Labs and materials of my talk on Cookies and Tokens Security.
-* The article is on <https://securityflow.io/demystifying-cookies-and-tokens-security>
+* The article is on my [blog](https://securityflow.io/demystifying-cookies-and-tokens-security).
 * The presentation is on <...> in which you can find more about several exploits.
 * Special thanks to [@voorivex](https://twitter.com/yshahinzadeh) for interactive dockerized labs.
 
