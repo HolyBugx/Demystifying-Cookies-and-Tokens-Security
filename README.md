@@ -1,9 +1,8 @@
-# Demystifying Cookies and Tokens Security
-
-* Labs and materials of my talk on Cookies and Tokens Security.
-* The article is on my [blog](https://securityflow.io/demystifying-cookies-and-tokens-security).
-* The presentation is on <...> in which you can find more about several exploits.
-* Special thanks to [@voorivex](https://twitter.com/yshahinzadeh) for interactive dockerized labs.
+* The full article is posted on my [blog](https://securityflow.io/demystifying-cookies-and-tokens-security).
+* The video presentation is shared on youtube.
+* The presentation slides are shared [here](https://github.com/HolyBugx/Demystifying-Cookies-and-Tokens-Security/blob/main/presentation/Demystifying%20Cookies%20and%20Tokens%20Security.pdf).
+* The exploit codes are shared [here](https://github.com/HolyBugx/Demystifying-Cookies-and-Tokens-Security/tree/main/exploits). I recommend you to watch the presentation video as I shared several exploits in detail.
+* Special thanks to [@voorivex](https://twitter.com/yshahinzadeh) for interactive dockerized labs!
 
 ## Labs installation
 
