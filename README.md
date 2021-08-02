@@ -3,7 +3,7 @@
 * The full article is posted on my [blog](https://securityflow.io/demystifying-cookies-and-tokens-security).
 * The video presentation is shared on youtube.
 * The presentation slides are shared [here](https://github.com/HolyBugx/Demystifying-Cookies-and-Tokens-Security/blob/main/presentation/Demystifying%20Cookies%20and%20Tokens%20Security.pdf).
-* The exploit codes are shared [here](https://github.com/HolyBugx/Demystifying-Cookies-and-Tokens-Security/tree/main/exploits). I recommend you to watch the presentation video as I shared several exploits in detail.
+* The exploit codes are shared [here](https://github.com/HolyBugx/Demystifying-Cookies-and-Tokens-Security/tree/main/exploits).
 * Special thanks to [@voorivex](https://twitter.com/yshahinzadeh) for interactive dockerized labs!
 
 ## Labs installation
