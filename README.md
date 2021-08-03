@@ -1,7 +1,7 @@
 <img width="1440" alt="Screen Shot 2021-08-01 at 23 04 53" src="https://user-images.githubusercontent.com/71842138/127934378-ff958fd0-8307-405a-9ed5-ff6c405d4e37.png">
 
 * The full article is posted on my [blog](https://securityflow.io/demystifying-cookies-and-tokens-security).
-* The video presentation is shared on youtube.
+* The video presentation is shared on [youtube](https://youtu.be/FZ_7xWZ03cQ).
 * The presentation slides are shared [here](https://github.com/HolyBugx/Demystifying-Cookies-and-Tokens-Security/blob/main/presentation/Demystifying%20Cookies%20and%20Tokens%20Security.pdf).
 * The exploit codes are shared [here](https://github.com/HolyBugx/Demystifying-Cookies-and-Tokens-Security/tree/main/exploits).
 * Special thanks to [@voorivex](https://twitter.com/yshahinzadeh) for interactive dockerized labs!
