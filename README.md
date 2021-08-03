@@ -26,3 +26,9 @@ Then add the following lines into the `hosts` file:
 127.0.0.1 xyz.subdomain.same-site-mainsite.lab
 127.0.0.1 another-site-mainsite.lab
 ```
+## Credentials
+
+```
+Username: security
+Password: flow
+```
