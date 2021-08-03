@@ -4,7 +4,7 @@
 * The video presentation is shared [here](https://youtu.be/FZ_7xWZ03cQ).
 * The presentation slides are shared [here](https://github.com/HolyBugx/Demystifying-Cookies-and-Tokens-Security/blob/main/presentation/Demystifying%20Cookies%20and%20Tokens%20Security.pdf).
 * The exploit codes are shared [here](https://github.com/HolyBugx/Demystifying-Cookies-and-Tokens-Security/tree/main/exploits).
-* Special thanks to [@voorivex](https://twitter.com/yshahinzadeh) for interactive dockerized labs!
+* Special thanks to [@YShahinzadeh](https://twitter.com/yshahinzadeh) for interactive dockerized labs!
 
 ## Labs installation
 
